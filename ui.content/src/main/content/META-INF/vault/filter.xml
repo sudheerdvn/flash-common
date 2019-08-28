@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/flash-common"/>
+    <filter root="/content/flash-common"/>
+    <filter root="/content/dam/flash-common"/>
+</workspaceFilter>
